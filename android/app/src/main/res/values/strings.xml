@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionllery</string>
+    <string name="title_activity_main">ionllery</string>
+    <string name="package_name">ionic.ionllery</string>
+    <string name="custom_url_scheme">ionic.ionllery</string>
+</resources>
