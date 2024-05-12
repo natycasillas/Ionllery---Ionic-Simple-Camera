@@ -1,0 +1,7 @@
+{
+  "name": "ionllery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
